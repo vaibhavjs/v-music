@@ -59,7 +59,10 @@ function Login() {
         </Link>
         <p className="text-xs pt-10">
           [ Note:
-          <p>Default login credentials for testing:</p>
+          <p>
+            If you don't want to create new account, you can use default login
+            credentials for testing:
+          </p>
           <pre>Email: test@gmail.com</pre>
           <pre>Password: password ]</pre>
         </p>
